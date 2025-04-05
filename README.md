@@ -22,6 +22,7 @@ A complete authentication system built with the MERN Stack that includes:
 - Password Reset with OTP sent to email
 - Form validations and error handling
 - Fully responsive UI
+<<<<<<< HEAD
 
 ## Project Structure
 
@@ -41,3 +42,9 @@ node server.js
 cd client
 npm install
 npm run dev
+
+
+<<<<<<< HEAD
+=======
+Remote repo content
+>>>>>>> origin/main
