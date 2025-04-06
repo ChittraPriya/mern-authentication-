@@ -1,1 +1,24 @@
-# mern-authentication-
+# MERN Stack Authentication System
+
+A complete authentication system built with the MERN Stack that includes:
+
+- Email Verification
+- OTP-based Password Reset
+- JWT Authentication
+
+## Tech Stack
+
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js**
+- **JWT**
+- **Tailwind CSS**
+
+## Features
+
+- User Registration with Email Verification (6-digit OTP)
+- Secure Login with JWT
+- Password Reset with OTP sent to email
+- Form validations and error handling
+- Fully responsive UI
